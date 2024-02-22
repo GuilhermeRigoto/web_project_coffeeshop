@@ -130,7 +130,7 @@
   line-height: 52px;
   color: #ffffff;
 }
-.recipes__sub-title {
+.recipes__subtitle {
   font-family: "Noto-Serif";
   font-size: 20px;
   line-height: 30px;
@@ -138,7 +138,7 @@
   max-width: 438px;
 }
 
-.recipes__video {
+.recipes__videos {
   display: flex;
   justify-content: center;
   gap: 40px;
