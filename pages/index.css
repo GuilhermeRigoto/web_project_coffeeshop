@@ -215,7 +215,7 @@
   color: #000;
 }
 
-.form__input::placeholder {
+.reservation__input::placeholder {
   color: #838383;
   position: absolute;
   left: 20px;
