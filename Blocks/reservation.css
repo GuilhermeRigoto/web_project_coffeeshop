@@ -36,6 +36,7 @@
 }
 
 .reservation__input {
+  box-sizing: border-box;
   height: 60px;
   font-weight: 500;
   font-size: 20px;
@@ -45,6 +46,7 @@
   border: solid #838383;
   margin-bottom: 32px;
   color: #000;
+  padding: 15px 20px;
 }
 
 .reservation__input::placeholder {
